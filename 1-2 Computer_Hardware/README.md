@@ -12,31 +12,13 @@ The **CPU (Central Processing Unit)**, often called the "brain" of the computer,
 
 ### Functionality of CPU
 
+![Functionality of CPU](images/cpu-functionality.png)
+
 The CPU processes data received from input devices and produces results for output devices. It consists of three main parts:
 
 - **ALU (Arithmetic Logic Unit):** Performs mathematical and logical operations.
 - **CU (Control Unit):** Directs the flow of data and instructions.
 - **Memory Unit (Registers):** Small, fast storage for temporary data needed during processing.
-
-```mermaid
-graph TD
-    Input[Input Devices<br/>(Keyboard, Mouse, Microphone)] --> CPU
-
-    subgraph Processor
-        CPU[CPU<br/>ALU, CU, Memory Unit]
-    end
-
-    CPU --> Output[Output Devices<br/>(Monitor, Printer, Speaker)]
-
-    CPU <--> Data[Data Storage<br/>(RAM, HDD, CD)]
-
-    style Input fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style CPU fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
-    style Output fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style Data fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-```
-
----
 
 ## Input Devices
 

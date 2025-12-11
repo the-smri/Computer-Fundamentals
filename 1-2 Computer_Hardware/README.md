@@ -43,8 +43,6 @@ _(Image: Diagram of a mouse showing Left Button, Right Button, Scroll Wheel, and
 
 <!-- Placeholder for Mouse Parts Image -->
 
----
-
 ## What is Computer Memory?
 
 Computer memory is a physical device capable of storing information temporarily or permanently. It is essential for the computer to start up, run applications, and process data.

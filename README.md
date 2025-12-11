@@ -1,5 +1,7 @@
 # Computer Fundamentals
 
+![History of Computers Timeline](history-of-computers.jpg)
+
 Welcome to the **Computer Fundamentals** repository. This project is a collection of notes and resources dedicated to understanding the history, evolution, and basic concepts of computing.
 
 ## 📂 Content Overview

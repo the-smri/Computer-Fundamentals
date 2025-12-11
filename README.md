@@ -1,6 +1,6 @@
 # Computer Fundamentals
 
-![History of Computers Timeline](history-of-computers.jpg)
+![History of Computers Timeline](image/history-of-computers.jpg)
 
 Welcome to the **Computer Fundamentals** repository. This project is a collection of notes and resources dedicated to understanding the history, evolution, and basic concepts of computing.
 
@@ -21,7 +21,7 @@ This document provides a concise history of the evolution of computers, covering
 
 Following the history of early computing devices, the evolution of modern computers is categorized into five generations.
 
-![Generations of Computers](generations-of-computers.png)
+![Generations of Computers](image/generations-of-computers.png)
 
 **The Five Generations:**
 

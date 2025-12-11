@@ -34,7 +34,7 @@ _(Image: Diagram of keyboard parts highlighting Function keys, Alphanumeric keys
 For fast typing, each finger is assigned specific keys to minimize movement and increase speed.
 _(Image: Color-coded chart showing finger placement on the keyboard)_
 
-<!-- Placeholder for Finger Chart Image -->
+![Typing Finger Chart](images/finger-chart.png)
 
 ### Mouse
 

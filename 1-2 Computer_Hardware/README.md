@@ -27,7 +27,7 @@ The CPU processes data received from input devices and produces results for outp
 The keyboard is the primary text input device.
 _(Image: Diagram of keyboard parts highlighting Function keys, Alphanumeric keys, Arrow keys, and Numeric Keypad)_
 
-<!-- Placeholder for Keyboard Parts Image -->
+![Keyboard Parts](images/keyboard-parts.jpg)
 
 #### Typing Finger Chart
 

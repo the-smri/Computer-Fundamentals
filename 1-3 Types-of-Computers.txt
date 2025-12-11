@@ -1,0 +1,28 @@
+Types of Computers
+
+Computers can be classified based on two main criteria: data handling capabilities and size/performance.
+
+### 1. Classification Based on Data Handling
+
+*   **Analog Computers:** These computers process continuous data (physical quantities like temperature, speed, voltage). They are used in scientific and industrial applications.
+    *   *Examples:* Speedometers, Thermometers, Analog Clocks.
+
+*   **Digital Computers:** These computers process data in discrete form (binary zeros and ones). They are versatile and widely used for general purposes.
+    *   *Examples:* Laptops, Smartphones, Digital Calculators.
+
+*   **Hybrid Computers:** These computers combine the features of both analog and digital computers. They can accept analog signals, convert them to digital for processing, and vice versa.
+    *   *Examples:* ECG Machines, Ultrasound Machines, Gas Pump Stations.
+
+### 2. Classification Based on Size and Capacity
+
+*   **Supercomputers:** The most powerful and fastest computers, used for complex tasks requiring immense calculations like weather forecasting, nuclear research, and simulations.
+    *   *Examples:* SUMMIT, Fugaku, Cray-1.
+
+*   **Mainframe Computers:** Large, powerful computers designed to handle massive amounts of data and support thousands of users simultaneously. Common in banking, insurance, and large enterprises.
+    *   *Examples:* IBM zSeries, UNIVAC.
+
+*   **Minicomputers (Midrange Computers):** Smaller than mainframes but larger than microcomputers. Used by small to medium businesses for serving multiple users (simpler than mainframes).
+    *   *Examples:* PDP-11, VAX, IBM AS/400.
+
+*   **Microcomputers:** The smallest and most common type of computer, designed for individual use. They rely on a microprocessor.
+    *   *Examples:* Desktop PCs, Laptops, Tablets, Smartphones, Workstations.

@@ -1,0 +1,21 @@
+Components of a Computer System
+
+A computer system consists of both hardware and software. The hardware components are the physical parts of the computer that you can touch and see.
+
+### 1. Input Devices
+Input devices allow the user to send data or commands to the computer.
+*   **Keyboard:** The primary device for entering text and characters.
+*   **Mouse:** A pointing device used to interact with the graphical user interface (GUI).
+
+### 2. Output Devices
+Output devices display or reproduce the results of the computer's processing.
+*   **Monitor:** Displays visual output (text, images, video) from the computer.
+*   **Speaker:** Produces audio output for music, alerts, and other sounds.
+
+### 3. System Unit (Internal Components)
+The system unit is the main case that houses the essential electronic components.
+*   **Motherboard:** The main circuit board that connects all other components (CPU, memory, storage, etc.) together.
+*   **CPU (Central Processing Unit):** The "brain" of the computer that executes instructions and processes data.
+*   **Power Supply Unit (PSU):** Converts electrical power from an outlet into usable power for the internal components.
+*   **RAM (Random Access Memory):** Volatile memory used for temporary data storage while the computer is running.
+*   **Storage (HDD/SSD):** Devices used for storing data permanently.

@@ -69,6 +69,8 @@ Computer memory is a physical device capable of storing information temporarily 
 
 ### 1. Types of Computer Memory
 
+![Types of Computer Memory](images/types-of-memory.jpg)
+
 #### RAM (Random Access Memory)
 
 RAM is volatile memory used for storing data that the CPU is currently using. It loses its data when power is turned off.

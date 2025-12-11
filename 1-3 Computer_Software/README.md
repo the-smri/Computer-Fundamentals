@@ -6,11 +6,7 @@ Computer software is a collection of instructions, data, or programs used to ope
 
 Software directs the peripheral devices on the entire computer system - what to do and how to do it.
 
----
-
 ## Types of Computer Software
-
-Software is typically classified into two main categories:
 
 ### 1. System Software
 
@@ -35,8 +31,6 @@ Application software (apps) is designed to perform specific tasks for the user. 
   - _Graphics Design:_ Adobe Photoshop, Illustrator.
   - _Accounting:_ QuickBooks, Tally.
 
----
-
 ## Software vs Hardware
 
 | Feature         | Hardware                           | Software                                            |
@@ -48,18 +42,4 @@ Application software (apps) is designed to perform specific tasks for the user. 
 | **Types**       | Input, Output, Storage, Processing | System Software, Application Software               |
 | **Example**     | Monitor, CPU, RAM                  | Windows 10, MS Office, Chrome                       |
 
----
-
 ## Software Hierarchy
-
-```mermaid
-graph TD
-    User[User] --> App[Application Software<br>(Browser, Games, Word Processor)]
-    App --> OS[Operating System<br>(Windows, Linux, macOS)]
-    OS --> HW[Hardware<br>(CPU, RAM, HDD)]
-
-    style User fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style App fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
-    style OS fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style HW fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-```

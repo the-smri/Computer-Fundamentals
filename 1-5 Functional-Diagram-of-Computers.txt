@@ -1,0 +1,35 @@
+Functional Diagram of a Computer
+
+The functional diagram of a computer illustrates how different units communicate and process data. The workflow describes the complete cycle of an instruction from input to output.
+
+### 1. The IPO Cycle (Input-Process-Output)
+All computers follow the basic IPO cycle:
+*   **Input:** Data and instructions are entered.
+*   **Process:** The computer works on the data based on the instructions.
+*   **Output:** The result is displayed to the user.
+
+### 2. Functional Units Description
+
+#### A. Input Unit
+Accepts data from the outside world and converts it into a machine-readable format for processing.
+
+#### B. Central Processing Unit (CPU)
+The CPU is the heart of the computer where actual processing takes place. It consists of:
+1.  **Control Unit (CU):** It manages and coordinates all the operations of the computer. It fetches instructions from memory, decodes them, and executes them. It does not process data itself but directs other units.
+2.  **Arithmetic Logic Unit (ALU):** Responsible for:
+    *   *Arithmetic Operations:* Addition, Subtraction, Multiplication, Division.
+    *   *Logical Operations:* Comparing numbers (Greater than, Less than, Equal to).
+
+#### C. Memory Unit
+*   **Registers:** Fast storage inside the CPU for immediate data access.
+*   **Primary Memory (RAM):** Holds data and instructions currently in use by the CPU.
+*   **Secondary Storage:** Used for long-term storage (files, programs).
+
+#### D. Output Unit
+Receives the processed results from the CPU (in machine code) and converts them into a human-readable form (text, graphics, audio).
+
+### Data Flow Overview
+1.  Input devices send data to the Main Memory.
+2.  The Control Unit fetches data from Main Memory to the ALU for processing.
+3.  Calculated results are sent back to the Main Memory.
+4.  Final results are sent from Main Memory to the Output Unit.

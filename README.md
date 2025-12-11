@@ -65,6 +65,18 @@ A computer system is composed of physical components (Hardware) that interact to
   - **CPU:** The processing brain.
   - **PSU (Power Supply Unit):** Provides power to the system.
 
+### [1-1.5 Functional Diagram of Computers](1-5%20Functional-Diagram-of-Computers.txt)
+
+This diagram illustrates the logical architecture and data flow within a computer system (Block Diagram).
+
+![Computer Functional Diagram](image/functional-diagram.png)
+
+**Data Flow Cycle:**
+
+1.  **Input:** Data enters via Input Unit.
+2.  **Process:** CPU (Control Unit + ALU) processes data using Memory.
+3.  **Output:** Processed information is sent to Output Unit.
+
 ## 🚀 Getting Started
 
 Simply open the text files to read the notes. As this repository grows, more topics related to computer fundamentals will be added.
